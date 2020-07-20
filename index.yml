@@ -1,0 +1,6 @@
+landingContent:
+  -.title: Sample Auth Docs Project
+  ..linkLists:
+  ....-.linkListType: Overview
+  ........-.text: Overview
+  ..........url: Overview.md
