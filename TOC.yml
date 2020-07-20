@@ -1,0 +1,6 @@
+- name: UI Tests
+  items:
+    - name: Change Logo UI Test
+      href: ChangeLogoUITest.md
+    - name: Change Sol Name UI Test
+      href: ChangeLogoUITest.md
