@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: Docs.VSC.uitestdoctemplate.uitestunit
+metadata:
+  title: UITestUnit
+  description: ...
+  ms.date: 07/20/2020
+  author: sahithi-voruganti
+  ms.author: ...
+  ms.topic: interactive-tutorial
+  ms.prod: ...
+  ROBOTS: NOINDEX
+title: UITestUnit
+durationInMinutes: 1
+content: |
+  [!include[](includes/uitestunit.md)]
